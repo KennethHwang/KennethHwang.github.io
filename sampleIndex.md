@@ -2,76 +2,24 @@
 layout: default
 ---
 
-Start by making content catagories and page links
-
-# Priorities
-#### 1.  Health
-#### 2.  Family
-#### 3.  Friends
-#### 4.  Purpose-Knowledge-Experience-Fun-Sensation-Pleasure
-
-## Health
-*   Health
-*   Diet
-*   Vitamin d
-*   Cooking/meal prepping/rdy frzn meals
-*   Exercise, cheap home gym
-*   Mindset/(mental) outlook
-*   Motivation verse system 1st/velocipede
-​
-
-## Relationships
-
-## Purpose-Knowledge-Experience-Fun-Sensation-Pleasure
-*   Skills
-*   Free time
-*   Notable books
-*   Minimalism
-*   KonMari
-*   Recent podcasts-cal Newport
-*   Tidying
-*   Financial independence
-*   Food
-*   travel
-*   Experiences- molly, skydiving, lsd, shrooms?
-*   Value optimization, versus best quality versus cheapest
-
-###   Products
-- lasik? 
-- Braces? 
-- Smartphone
-- headphones
-- comforter
-- computer
-  - SSD
-  - MacBook
-- car
-- blackout blinds
-- office chair
-magnetic car phone mount (Bluetooth, wireless charging)
-monitor
-mattress
-pillow
-electric toothbrush
-shoes
-clothes
-desk/table
-Decor: artwork/comfy/diffuser/lights
-socks
-body soap
-bidet
-wake up light alarm
-bath towel
-bedsheets
-kitchen tools
-* Problems- traffic, Internet, free time/work, Materialism, attention/constantly connected/inability to Focus, Compulsive checking of notification/updates/alerts
-​
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
-
 [Trying to link to post]({% post_url 2019-03-19-knowing %}).
 
+There should be whitespace between paragraphs.
+
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+
 # Header 1
+
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+## Header 2
+
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
 
 ### Header 3
 
