@@ -4,7 +4,7 @@ layout: default
 
 Start by making content catagories and page links
 
-[My paintings](https://kennethhwang.github.io/paintings/index.html)
+[My paintings](https://kennethhwang.github.io/paintings/index.html) 
 [Resume](/docs/Kenneth Hwang 2020.pdf)  
 [Portfolio](/docs/Portfolio Kenneth Hwang.pdf)
 
