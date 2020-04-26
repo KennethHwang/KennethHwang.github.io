@@ -4,7 +4,69 @@ layout: default
 
 Start by making content catagories and page links
 
-[My paintings](https://kennethhwang.github.io/paintings/index.html)
+# Priorities
+#### 1.  Health
+#### 2.  Family
+#### 3.  Friends
+#### 4.  Purpose-Knowledge-Experience-Fun-Sensation-Pleasure
+
+## Health
+*   Health
+*   Diet
+*   Vitamin d
+*   Cooking/meal prepping/rdy frzn meals
+*   Exercise, cheap home gym
+*   Mindset/(mental) outlook
+*   Motivation verse system 1st/velocipede
+​
+
+## Relationships
+
+## Purpose-Knowledge-Experience-Fun-Sensation-Pleasure
+*   Skills
+*   Free time
+*   Notable books
+*   Minimalism
+*   KonMari
+*   Recent podcasts-cal Newport
+*   Tidying
+*   Financial independence
+*   Food
+*   travel
+*   Experiences- molly, skydiving, lsd, shrooms?
+*   Value optimization, versus best quality versus cheapest
+
+###   Products
+- lasik? 
+- Braces? 
+- Smartphone
+- headphones
+- comforter
+- computer
+  - SSD
+  - MacBook
+- car
+- blackout blinds
+- office chair
+magnetic car phone mount (Bluetooth, wireless charging)
+monitor
+mattress
+pillow
+electric toothbrush
+shoes
+clothes
+desk/table
+Decor: artwork/comfy/diffuser/lights
+socks
+body soap
+bidet
+wake up light alarm
+bath towel
+bedsheets
+kitchen tools
+* Problems- traffic, Internet, free time/work, Materialism, attention/constantly connected/inability to Focus, Compulsive checking of notification/updates/alerts
+​
+
 [Resume](/docs/Kenneth Hwang.pdf)  
 [Portfolio](/docs/Portfolio Kenneth Hwang.pdf)
 
