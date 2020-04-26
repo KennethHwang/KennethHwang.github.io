@@ -2,17 +2,38 @@
 layout: default
 ---
 
-Start by making content catagories and page links
+# [Paintings](https://kennethhwang.github.io/paintings/index.html)  
 
-[My paintings](https://kennethhwang.github.io/paintings/index.html) 
-[Resume](/docs/Kenneth Hwang 2020.pdf)  
-[Portfolio](/docs/Portfolio Kenneth Hwang.pdf)
+### Sunset Seascape
+
+![Sunset Seascape](https://raw.githubusercontent.com/KennethHwang/paintings/master/images/thumbs/IMG_9137.jpeg)
+
+### Tropical Seascape
+
+![Tropical Seascape](https://raw.githubusercontent.com/KennethHwang/paintings/master/images/thumbs/IMG_9163.jpeg)
+
+### Falls in the Glen 1
+
+![Falls in the Glen 1](https://raw.githubusercontent.com/KennethHwang/paintings/master/images/thumbs/IMG_9165.jpeg)
+
+### Falls in the Glen 2
+
+![Falls in the Glen 2](https://raw.githubusercontent.com/KennethHwang/paintings/master/images/thumbs/IMG_9274.jpeg)
+
+### Fields
+
+![Fields](https://raw.githubusercontent.com/KennethHwang/paintings/master/images/thumbs/IMG_9284.jpeg)
+
+### Extra Paint
+
+![Extra Paint](https://raw.githubusercontent.com/KennethHwang/paintings/master/images/thumbs/IMG_9282.jpeg)
+
+## [Resume](/docs/Kenneth Hwang 2020.pdf)  
+## [Portfolio](/docs/Portfolio Kenneth Hwang.pdf)  
 
 <kenneth.c.hwang@gmail.com>
 
 [Trying to link to post]({% post_url 2019-03-19-knowing %}).
-
-# Header 1
 
 ### Header 3
 
