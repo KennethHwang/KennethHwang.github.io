@@ -15,6 +15,12 @@ layout: default
 
 ## ---
 
+### Posts
+- [Knowing]({% post_url 2019-03-19-knowing %})
+- [Tiger King]({% post_url 2020-05-02-tiger-king %})
+
+## ---
+
 <dl>
 <dt>Contact</dt>
 <dd> <a>kenneth.c.hwang@gmail.com</a> </dd>
