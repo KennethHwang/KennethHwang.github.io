@@ -19,7 +19,3 @@ layout: default
 <dt>Contact</dt>
 <dd> <a>kenneth.c.hwang@gmail.com</a> </dd>
 </dl>
-
-## ---  
-
-### [Test](./learningJS.html)
